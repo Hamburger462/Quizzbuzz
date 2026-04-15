@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     
     "accounts.apps.AccountsConfig",
     "quizzes.apps.QuizzesConfig",
+    "game_sesh.apps.GameSeshConfig",
 ]
 
 MIDDLEWARE = [
